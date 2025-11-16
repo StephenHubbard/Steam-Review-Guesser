@@ -1,7 +1,7 @@
 {
   "name": "Steam Review Guesser",
   "version": "1.2.0",
-  "manifest_version": 4,
+  "manifest_version": 3,
   "description": "Turns Steam page into a guessing game.",
   "content_scripts": [
     {
